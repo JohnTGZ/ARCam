@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/john/gestelt_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/john/gestelt_ws/src/gestelt/third_party/bonxai/include/**",
+        "/home/john/gestelt_ws/src/gestelt/third_party/convex_decomp_util/include/**",
+        "/home/john/gestelt_ws/src/gestelt/third_party/DecompROS/decomp_ros_utils/include/**",
+        "/home/john/gestelt_ws/src/gestelt/third_party/DecompROS/decomp_util/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_navigation/ego_planner_fsm/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_swarm/fake_drone/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_swarm/fake_map/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_navigation/global_planner/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_perception/grid_map/include/**",
+        "/home/john/gestelt_ws/src/gestelt/third_party/ikd_tree/include/**",
+        "/home/john/gestelt_ws/src/gestelt/third_party/jps3d/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_utils/logger/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_navigation/navigator/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_navigation/path_searching/include/**",
+        "/home/john/gestelt_ws/src/gestelt/planner_adaptor/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_navigation/sfc_generation/include/**",
+        "/home/john/gestelt_ws/src/simple_quad_simulator/ros1/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_swarm/swarm_collision_checker/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_navigation/traj_opt/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_navigation/traj_utils/include/**",
+        "/home/john/gestelt_ws/src/gestelt/gestelt_controller/trajectory_server/include/**",
+        "/home/john/gestelt_ws/src/vrpn_client_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
